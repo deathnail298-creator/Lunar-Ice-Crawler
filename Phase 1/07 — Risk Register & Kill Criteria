@@ -1,0 +1,284 @@
+07 — Risk Register & Kill Criteria
+Lunar Icecrawler — Phase 1
+Purpose of This Document
+
+This document does two things:
+
+1️⃣ Identifies the most credible risks to Lunar Icecrawler’s viability
+2️⃣ Defines the conditions that terminate the concept honestly
+
+Phase-1 is not about optimism.
+Phase-1 is about deciding whether the system should live or die before anyone wastes resources pretending.
+
+If the risks in this document cannot be reasonably mitigated, Phase-1 must conclude with a No-Go.
+
+Risk Philosophy
+
+Lunar Icecrawler deliberately accepts that:
+
+lunar operations are harsh
+
+inefficiency is inevitable
+
+partial success is still success
+
+perfection is unnecessary
+
+But there is a line between:
+
+“hard but survivable”
+
+and
+
+“fundamentally unrealistic.”
+
+This document defines where that line is.
+
+Risk Register (Major Risk Categories)
+R1 — Thermal Survivability Failure
+
+Icecrawler may not withstand repeated:
+
+localized heating cycles
+
+thermal gradients
+
+fatigue and expansion effects
+
+Consequence: mission life collapses, heater becomes suicide mechanism.
+
+Phase-1 Attitude:
+If heater survival cannot be credibly defended → serious trouble.
+
+R2 — Capture Efficiency Too Low to Matter
+
+Even if heating works, vapor may:
+
+escape to vacuum too easily
+
+refuse to condense effectively
+
+fail to meaningfully accumulate
+
+Consequence: system burns energy for negligible water yield.
+
+Phase-1 Attitude:
+If meaningful accumulation cannot be defended → concept may not be worth pursuing.
+
+R3 — Internal Storage Instability
+
+Captured water may:
+
+re-sublimate
+
+structurally destabilize systems
+
+accumulate unpredictably
+
+degrade internal reliability
+
+Consequence: stored mass becomes a liability rather than a resource.
+
+R4 — Unit Formation Unrealistic
+
+Batch formation may prove:
+
+mechanically fragile
+
+inconsistently successful
+
+too susceptible to vacuum sublimation
+
+excessively complex to execute reliably
+
+Consequence: system produces nothing usable.
+
+R5 — Ejection System Fails Over Time
+
+Even if units can form, ejection could:
+
+jam frequently
+
+degrade irrecoverably
+
+impose high precision demands
+
+damage the crawler
+
+Consequence: unsustainable production process.
+
+R6 — Passive Tagging Proves Practically Useless
+
+Tags may:
+
+fail to remain readable
+
+fail to remain attached
+
+fail to meaningfully assist retrieval
+
+demand unrealistic deployment precision
+
+Consequence: retrieval benefit collapses.
+
+R7 — Mobility & Ground Stability Failure
+
+Crawler may:
+
+fail to reach terrain
+
+fail to stabilize during heating
+
+fail to maintain working contact geometry
+
+require exotic locomotion to survive
+
+Consequence: system never truly operates as designed.
+
+R8 — Energy Economics Break the Concept
+
+If energy requirements:
+
+are wildly disproportionate to yield
+
+impose unsustainable operation cycles
+
+require unrealistic power architecture
+
+Consequence: concept becomes pointless no matter how clever.
+
+R9 — Conceptual Fragility / Doctrine Mismatch
+
+If making it “work” demands:
+
+high precision robotics
+
+fragile coordination
+
+unrealistic environmental assumptions
+
+tightly coupled partner systems
+
+Consequence: it violates the core identity of Lunar Icecrawler and loses legitimacy.
+
+Kill Criteria (Honest Stop Conditions)
+
+Phase-1 must recommend No-Go if any of the following become clear:
+
+Kill-1: Heating + Capture Cannot Realistically Produce Meaningful Output
+
+If after sober evaluation reviewers cannot defend:
+
+survivable heater operation
+
+believable vapor capture
+
+legitimate accumulation over time
+
+Then the core architecture fails.
+
+Kill-2: Unit Formation Is Fundamentally Not Plausible
+
+If realistic lunar physics strongly predict:
+
+persistent failure to form usable units, or
+
+unit stability is not survivable,
+
+Then Icecrawler loses its purpose.
+
+Kill-3: Ejection Cannot Be Made Rugged
+
+If ejection demands:
+
+delicate choreography
+
+high precision
+
+constant maintenance
+
+…or obviously will jam catastrophically over time,
+the doctrine collapses.
+
+Kill-4: Passive Tagging Becomes Active / Fragile or Pointless
+
+If tagging:
+
+requires power,
+
+requires health,
+
+requires networking,
+
+or does not provide meaningful retrieval value,
+
+…then the philosophical structure of the system fails.
+
+Kill-5: Mobility & Ground Contact Are Not Believable
+
+If reviewers conclude:
+
+stable posture is unrealistic,
+
+site operation is improbable,
+
+contact conditions cannot be trusted,
+
+…then Lunar Icecrawler must be rejected.
+
+Kill-6: Energy Reality Makes It Laughably Inefficient
+
+If Phase-1 determines:
+
+energy-to-yield is so disproportionate that mission value collapses,
+
+Then no amount of optimism can save the concept.
+
+Kill-7: System Requires Fantasy Engineering
+
+If success depends on:
+
+ideal terrain
+
+ideal sealing
+
+ideal capture
+
+miraculous hardware longevity
+
+precision robotics incompatible with doctrine
+
+Then the concept is fundamentally dishonest.
+Phase-1 should kill it.
+
+Graceful Survival Rule
+
+If risks remain but reviewers can argue that:
+
+degraded performance still produces useful output
+
+partial mission success still has value
+
+risks appear manageable rather than terminal
+
+Then the system deserves to continue.
+
+Evaluation Outcome Rule
+
+Phase-1 proceeds ONLY IF reviewers can defend that:
+
+no kill condition is clearly triggered
+
+major risks appear harsh but survivable
+
+Lunar Icecrawler remains philosophically and operationally coherent
+
+If reviewers cannot do so honestly:
+
+Phase-1 No-Go — Concept does not justify further development.
+
+If reviewers can do so honestly:
+
+Phase-1 continues. Risks acknowledged, but concept remains viable.
+
+Either result counts as success, because the process delivered truth.
