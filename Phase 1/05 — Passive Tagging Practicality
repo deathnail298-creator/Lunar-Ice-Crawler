@@ -1,0 +1,240 @@
+05 — Passive Tagging Practicality
+Lunar Icecrawler — Phase 1
+Purpose of This Document
+
+This document determines whether Lunar Icecrawler’s passive tagging doctrine is realistically achievable, durable, and operationally useful.
+
+If tagging turns out to require fragile electronics, unrealistic precision, constant maintenance, or fantasy reliability, then the tagging pillar collapses and Phase 1 must be prepared to stop honestly.
+
+Phase 1 is about practicality, not cleverness.
+
+Core Question
+
+Phase 1 must answer:
+
+“Can Lunar Icecrawler reliably place durable, passive identification tags on ejected resource units in a way that is mechanically believable, operationally useful, and mission-resilient?”
+
+If the answer leans no, Lunar Icecrawler loses credibility.
+
+Tagging Philosophy
+
+Tagging is not a tech flex.
+Tagging is logistics sanity.
+
+Doctrine is:
+
+tagging must be passive
+
+tagging must be durable
+
+tagging must be independent from ejection mechanics
+
+tagging must not create new system dependencies
+
+tagging failure must never kill the overall mission value
+
+The tag exists to say:
+
+“This is one of ours.
+This object is intentional.
+You can find it and retrieve it later.”
+
+Nothing more.
+Nothing less.
+
+Functional Requirements for Tags
+
+To remain credible, tags must:
+
+1️⃣ Survive lunar thermal & dust environment
+2️⃣ Require no power, no radio health, no maintenance
+3️⃣ Be machinable / deployable by a slow rugged robot
+4️⃣ Remain readable or recognizable over realistic mission timescales
+5️⃣ Allow another system to:
+
+find units,
+
+confirm identity,
+
+retrieve confidently
+
+If tags cannot realistically satisfy that role, the doctrine collapses.
+
+Acceptable Tag Implementations (Concept-Class, Not Engineering Spec)
+
+Phase 1 accepts that specific engineering may vary, but plausible implementations could include:
+
+optical fiducial markers / visible geometry tags
+
+durable shape or symbol
+
+camera-identifiable
+
+dust-tolerant with smart CV processing
+
+passive RFID / NFC-like structures
+
+only readable when retrieval asset is close
+
+no internal power
+
+purely convenience, not dependency
+
+mechanical identification markers
+
+etched plates
+
+stamped plates
+
+simple durable marker embedded into or attached to the unit
+
+Phase 1 does NOT pick a winner.
+Phase 1 demands that at least one of these categories remains credible.
+
+What Tagging MUST NOT Become
+
+Tagging must NOT drift into:
+
+active beacons
+
+blinking lights
+
+powered electronics health dependencies
+
+communication networks
+
+live status tracking systems
+
+fragile alignment choreography
+
+precision robotics drama
+
+If tagging requires those things, Lunar Icecrawler breaks doctrine and credibility.
+
+Mechanical Deployment Realism
+
+Tagging deployment must be:
+
+simple
+
+repeatable
+
+tolerant of dust
+
+tolerant of rough ejection variability
+
+independent of exact unit geometry
+
+separable from ejection failure modes
+
+It should feel like:
+
+“industrial stapler for the Moon”
+
+Not:
+
+“delicate laboratory instrument operating perfectly in hell.”
+
+If tagging requires high finesse, Phase 1 needs to call No-Go.
+
+Operational Usefulness Requirement
+
+Tags are only justified if they actually deliver value:
+
+help retrieval assets locate resource units without fantasy assumptions
+
+allow confirmation that a found object is Icecrawler-produced
+
+enable mapping or documentation after the fact
+
+reduce search burden and risk
+
+If tags cannot meaningfully reduce retrieval cost and uncertainty, they are unnecessary complexity — and Phase 1 should reject them.
+
+Failure Modes We Accept
+
+Phase 1 honestly accepts that tagging may experience:
+
+occasional deployment failure
+
+damaged or partially readable tags
+
+dust coverage reducing efficiency
+
+mechanical wear reducing reliability over time
+
+variability in readability
+
+rare untagged units that must simply be ignored or manually identified
+
+These do not kill the mission if most units are still properly tagged.
+
+Failure Modes That Kill the Concept
+
+Tagging is unacceptable if:
+
+tags routinely fail to remain attached
+
+tags cannot be realistically read in field conditions
+
+tags significantly complicate unit eject design
+
+tagging introduces critical reliability dependencies
+
+tags have to be “alive” to remain useful
+
+tags clearly won’t survive lunar conditions
+
+If this becomes the honest conclusion, Phase 1 must call No-Go here.
+
+Compatibility With Doctrine
+
+Tagging must reinforce the system’s identity:
+
+slow
+
+rugged
+
+boring
+
+predictable
+
+persistent
+
+independent
+
+If tagging feels like:
+
+fragile,
+
+tech-showcase,
+
+clever for its own sake…
+
+…it violates doctrine and loses legitimacy.
+
+Phase 1 Evaluation Outcome Rule
+
+Phase 1 continues ONLY IF reviewers can assert:
+
+passive tags are physically plausible and survivable
+
+deployment mechanisms can remain simple and rugged
+
+tagging aligns with Lunar Icecrawler doctrine
+
+tagging clearly provides real operational value
+
+failure does not collapse the system
+
+nothing about tagging requires fantasy engineering
+
+If reviewers cannot defend those statements honestly:
+
+Phase 1 No-Go — Passive tagging not credible.
+
+If reviewers can defend them:
+
+Phase 1 continues. Tagging doctrine remains viable.
+
+Either conclusion is success if it is honest.
